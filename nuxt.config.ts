@@ -8,7 +8,7 @@ export default defineNuxtConfig({
       pinia: 'pinia'
     }
   },
-  css: ["~/assets/css/main.css"],
+  css: ["~/assets/css/tailwind.css"],
   vite: {
     server: {
       fs: {
